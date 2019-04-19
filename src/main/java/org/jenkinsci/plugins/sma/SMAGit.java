@@ -27,7 +27,7 @@ public class SMAGit
 {
     public enum Mode { STD, INI, PRB }
 
-    private final String SOURCEDIR = "src/";
+    private final String SOURCEDIR = "/";
 
     private Git git;
     private Repository repository;
