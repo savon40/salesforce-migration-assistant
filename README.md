@@ -1,6 +1,8 @@
 # Salesforce Migration Assistant
 This Jenkins plugin automatically deploys metadata changes to a Salesforce organization based on differences between two commits in Git.
 
+Edit salesforceMetadata.xml for metadata types and version (add aura)
+
 See the [wiki](https://github.com/jenkinsci/salesforce-migration-assistant-plugin/wiki) for more information.
 
 ### Licensing
